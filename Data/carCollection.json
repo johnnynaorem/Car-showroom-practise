@@ -1,0 +1,7 @@
+[
+  {"Name":"buick skylark 320","Miles_per_Gallon":15,"Cylinders":8,"Displacement":350,"Horsepower":165,"Weight_in_lbs":3693,"Acceleration":11.5,"Year":"1970-01-01","Origin":"USA"},
+  {"Name":"plymouth satellite","Miles_per_Gallon":18,"Cylinders":8,"Displacement":318,"Horsepower":150,"Weight_in_lbs":3436,"Acceleration":11,"Year":"1970-01-01","Origin":"USA"},
+  {"Name":"Classic 350 New Reborn","Miles_per_Gallon":40,"Cylinders":1,"Displacement":34934,"Horsepower":150,"Weight_in_lbs":430,"Acceleration":12,"Year":"2022-05-15","Origin":"INDIA"},
+  {"Name":"chevrolet beat","Miles_per_Gallon":28,"Cylinders":4,"Displacement":307,"Horsepower":130,"Weight_in_lbs":3504,"Acceleration":12,"Year":"1970-01-01","Origin":"USA"},
+  {"Name":"Lamborghini Aventador","Miles_per_Gallon":18,"Cylinders":6,"Displacement":1200,"Horsepower":900,"Weight_in_lbs":3504,"Acceleration":12,"Year":"1970-01-01","Origin":"Italy"}
+]
